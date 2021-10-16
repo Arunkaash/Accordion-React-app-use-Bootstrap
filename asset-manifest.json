@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Accordion-React-app-use-Bootstrap/static/css/main.2cc0f016.chunk.css",
+    "main.js": "/Accordion-React-app-use-Bootstrap/static/js/main.2ff0d360.chunk.js",
+    "main.js.map": "/Accordion-React-app-use-Bootstrap/static/js/main.2ff0d360.chunk.js.map",
+    "runtime-main.js": "/Accordion-React-app-use-Bootstrap/static/js/runtime-main.56cc8328.js",
+    "runtime-main.js.map": "/Accordion-React-app-use-Bootstrap/static/js/runtime-main.56cc8328.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Accordion-React-app-use-Bootstrap/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9a12d62c.chunk.js": "/Accordion-React-app-use-Bootstrap/static/js/2.9a12d62c.chunk.js",
+    "static/js/2.9a12d62c.chunk.js.map": "/Accordion-React-app-use-Bootstrap/static/js/2.9a12d62c.chunk.js.map",
+    "static/js/3.8e2f7513.chunk.js": "/Accordion-React-app-use-Bootstrap/static/js/3.8e2f7513.chunk.js",
+    "static/js/3.8e2f7513.chunk.js.map": "/Accordion-React-app-use-Bootstrap/static/js/3.8e2f7513.chunk.js.map",
+    "index.html": "/Accordion-React-app-use-Bootstrap/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Accordion-React-app-use-Bootstrap/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.2cc0f016.chunk.css.map": "/Accordion-React-app-use-Bootstrap/static/css/main.2cc0f016.chunk.css.map",
+    "static/js/2.9a12d62c.chunk.js.LICENSE.txt": "/Accordion-React-app-use-Bootstrap/static/js/2.9a12d62c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Accordion-React-app-use-Bootstrap/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56cc8328.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9a12d62c.chunk.js",
+    "static/css/main.2cc0f016.chunk.css",
+    "static/js/main.2ff0d360.chunk.js"
+  ]
+}
